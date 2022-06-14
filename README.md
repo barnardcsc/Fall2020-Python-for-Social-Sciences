@@ -3,4 +3,4 @@ An introductory workshop on using Python and Pandas to explore and visualize dat
 
 The workshop covers the basics of Python, importing CSV formatted data, using Pandas to work with data, pivot tables, and plot style.
 
-Follow the workshop by referencing the "Python_for_the_Social_Scientist_Data_Analysis_with_Country_Happiness.ipynb" file.
+Follow the workshop by referencing the "Python_for_the_Social_Scientist_Data_Analysis_with_Country_Happiness.ipynb" file. More information about the workshop event can be found [here](https://csc.barnard.edu/events/workshop-python-social-sciences).
